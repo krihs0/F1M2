@@ -1,4 +1,5 @@
 # Fase 1 Module 2 Museum Online
 ## javascript
 
-[live view](http://32813.hosts1.ma-cloud.nl/f1m2js/)
+[Boodschappen](http://32813.hosts1.ma-cloud.nl/Boodschappen/)
+[Slideshow](http://32813.hosts1.ma-cloud.nl/JS-Slideshow/)
