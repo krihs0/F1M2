@@ -1,0 +1,23 @@
+body{
+    padding: 5px;
+    margin: 5px;
+}
+
+#img{
+    display: block;
+    margin-bottom: 20px;
+}
+
+.button{
+    background-color: cadetblue;
+    padding: 5px;
+    margin: 5spx;
+    width: 100px;
+    border-radius: 5px;
+    display: inline;
+}
+
+.button:hover{
+    background-color: cornflowerblue;
+    border-radius: 5px;
+}
