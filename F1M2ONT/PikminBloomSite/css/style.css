@@ -33,6 +33,11 @@ figcaption{
 img{
     width: 100%;
     border-radius: 5px;
+    transition: 0.2s transform;
+}
+
+img:hover{
+    transform: scale(1.05);
 }
 
 p{
@@ -48,4 +53,33 @@ video{
     width: 100%;
     margin-bottom: 20px;
     border-radius: 5px;
+}
+
+header{
+    height: 60px;
+    background-color: #222831;
+    color: white;
+}
+
+header, footer{
+    height: 60px;
+    background-color: #222831;
+    color: white;
+
+}
+footer{
+    display: flex;
+    align-items: center;
+}
+
+footer > p{
+    width: 60vw;
+    margin: 0 auto;
+    padding-left: 40px;
+}
+
+@media screen and (max-width:1000px) {
+    article{
+        background:red;
+    }
 }
