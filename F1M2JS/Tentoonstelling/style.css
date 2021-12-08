@@ -12,6 +12,10 @@ body{
     margin: auto;
     height: 400px;
 }
+h2{
+    margin-left: 15px;
+    padding-top: 10px;
+}
 
 img{
     height: 300px;
@@ -35,11 +39,12 @@ img{
     cursor: pointer;
 }
 
+p span{
+    display: block;
+}
+
 p{
     float: right;
-    margin-right: 10px;
-    width: 30px;
-    display: flex;
-    justify-content: end;
-    align-items: center;
+    margin-right: 30px;
+    margin-top: -150px;
 }
