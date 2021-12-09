@@ -1,9 +1,8 @@
-# Fase 1 Module 2 Museum Online
-## javascript
+# javascript
 
-[Boodschappen](http://32813.hosts1.ma-cloud.nl/Boodschappen/)
+[Boodschappen](http://32813.hosts1.ma-cloud.nl/pages/Boodschappen/)
 
-[Slideshow](http://32813.hosts1.ma-cloud.nl/JS-Slideshow/)
+[Slideshow](http://32813.hosts1.ma-cloud.nl/pages/JS-Slideshow/)
 
 [NummerTabel](http://32813.hosts1.ma-cloud.nl/pages/NummerTabel/)
 
